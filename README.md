@@ -20,14 +20,6 @@ No build step, no dependencies — just open `memes4ever.html` in any modern bro
 - ⭐ Add custom subreddits to the sidebar
 - All data stored in `localStorage` — nothing is sent to any server
 
-## Usage
-
-1. Download `memes4ever.html`
-2. Open it in a browser
-3. That's it
-
-Or host it on any static file host (GitHub Pages, Netlify, etc.).
-
 ## Legal
 
 **Application code** is released under the [MIT License](LICENSE).
